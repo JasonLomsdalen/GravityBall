@@ -10,7 +10,6 @@ public class EarthScene : MonoBehaviour
     {
         SceneManager.LoadScene("Earth");
         Physics.gravity = new Vector3(0.0f, -9.8f, 0.0f);
-        Debug.Log("Hello World!");
     }
 
 }

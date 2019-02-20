@@ -10,7 +10,6 @@ public class MoonScene : MonoBehaviour
     {
         SceneManager.LoadScene("Moon");
         Physics.gravity = new Vector3(0.0f, -1.62f, 0.0f);
-        Debug.Log("Hello World!");
     }
 
 }
