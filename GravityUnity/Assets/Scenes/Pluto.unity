@@ -4336,7 +4336,7 @@ GameObject:
   - component: {fileID: 620394596}
   - component: {fileID: 620394595}
   m_Layer: 5
-  m_Name: Button - Pluto
+  m_Name: Button - Custom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -4403,7 +4403,7 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 2085621981}
+      - m_Target: {fileID: 2085621983}
         m_MethodName: set_enabled
         m_Mode: 6
         m_Arguments:
@@ -4523,7 +4523,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Pluto
+  m_Text: Custom
 --- !u!222 &659353963
 CanvasRenderer:
   m_ObjectHideFlags: 0
